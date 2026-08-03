@@ -1,0 +1,137 @@
+nationality,issued,refused,applications,refusal_rate
+India,9947,807,10754,0.075
+Philippines,3398,335,3733,0.0897
+Brazil,3381,522,3903,0.1337
+China,1922,215,2137,0.1006
+Pakistan,1453,186,1639,0.1135
+South Africa,1240,209,1449,0.1442
+United States of America,1039,80,1119,0.0715
+Zimbabwe,831,138,969,0.1424
+Nigeria,726,156,882,0.1769
+Sri Lanka,631,68,699,0.0973
+Malaysia,503,45,548,0.0821
+Thailand,434,26,460,0.0565
+Nepal,425,58,483,0.1201
+Mexico,392,61,453,0.1347
+Türkiye,332,21,353,0.0595
+Canada,232,19,251,0.0757
+Egypt,206,20,226,0.0885
+Bangladesh,203,37,240,0.1542
+Ukraine,185,6,191,0.0314
+Sudan,185,3,188,0.016
+Chile,185,36,221,0.1629
+Kenya,172,21,193,0.1088
+Israel,156,6,162,0.037
+Ghana,153,29,182,0.1593
+Russian Federation,139,10,149,0.0671
+Bolivia,136,27,163,0.1656
+Botswana,130,29,159,0.1824
+Japan,123,5,128,0.0391
+Colombia,121,15,136,0.1103
+Australia,120,9,129,0.0698
+Mongolia,110,25,135,0.1852
+Vietnam,110,9,119,0.0756
+Argentina,98,21,119,0.1765
+Morocco,90,12,102,0.1176
+"Iran, Islamic Republic of",87,1,88,0.0114
+"Korea, Republic of",87,7,94,0.0745
+Taiwan,83,2,85,0.0235
+Costa Rica,77,9,86,0.1047
+New Zealand,75,12,87,0.1379
+Uganda,68,7,75,0.0933
+Lebanon,44,1,45,0.0222
+Indonesia,43,11,54,0.2037
+Jordan,43,1,44,0.0227
+Tunisia,38,5,43,0.1163
+El Salvador,37,1,38,0.0263
+Singapore,35,4,39,0.1026
+Kazakhstan,31,0,31,0.0
+Algeria,29,8,37,0.2162
+Kosova,27,6,33,0.1818
+Palestine,25,2,27,0.0741
+Mauritius,25,1,26,0.0385
+Georgia,24,8,32,0.25
+Uzbekistan,23,0,23,0.0
+Honduras,23,3,26,0.1154
+Paraguay,23,2,25,0.08
+Malawi,22,1,23,0.0435
+Hong Kong,22,0,22,0.0
+"Moldova, Republic of",22,7,29,0.2414
+Trinidad and Tobago,21,0,21,0.0
+Panama,21,4,25,0.16
+Albania,21,8,29,0.2759
+Venezuela,20,2,22,0.0909
+Peru,20,0,20,0.0
+Cameroon,20,7,27,0.2593
+Myanmar,20,1,21,0.0476
+Guatemala,19,3,22,0.1364
+Kyrgyzstan,19,0,19,0.0
+Belarus,18,2,20,0.1
+"Tanzania, United Republic of",17,0,17,0.0
+Zambia,17,3,20,0.15
+Serbia,16,1,17,0.0588
+Uruguay,14,7,21,0.3333
+Syrian Arab Republic,14,1,15,0.0667
+Ethiopia,13,0,13,0.0
+Iraq,12,0,12,0.0
+Saint Kitts and Nevis,12,1,13,0.0769
+Saudi Arabia,11,0,11,0.0
+Tajikistan,11,0,11,0.0
+"Congo, The Democratic Republic of the",10,0,10,0.0
+Oman,10,0,10,0.0
+Lesotho,9,3,12,0.25
+Cuba,9,0,9,0.0
+Ecuador,8,2,10,0.2
+Nicaragua,8,2,10,0.2
+Seychelles,7,1,8,0.125
+Afghanistan,6,5,11,0.4545
+Ireland,6,1,7,0.1429
+Bahrain,6,0,6,0.0
+Namibia,6,1,7,0.1429
+Swaziland,6,1,7,0.1429
+Yemen,5,0,5,0.0
+Azerbaijan,5,0,5,0.0
+Libya,5,1,6,0.1667
+Mozambique,5,0,5,0.0
+Republic of Serbia,4,0,4,0.0
+Armenia,4,0,4,0.0
+Jamaica,4,0,4,0.0
+Grenada,4,1,5,0.2
+"Macedonia, The Former Yugoslav Republic of",4,0,4,0.0
+Rwanda,4,0,4,0.0
+Vanuatu,3,1,4,0.25
+Sierra Leone,3,1,4,0.25
+Kuwait,3,0,3,0.0
+Brunei Darussalam,3,0,3,0.0
+Senegal,3,0,3,0.0
+Fiji,2,0,2,0.0
+Eritrea,2,0,2,0.0
+Dominica,2,0,2,0.0
+Belize,2,0,2,0.0
+Bahamas,2,1,3,0.3333
+Maldives,2,0,2,0.0
+Congo,2,0,2,0.0
+Bosnia and Herzegovina,2,0,2,0.0
+Guyana,2,0,2,0.0
+Macao,2,0,2,0.0
+Angola,1,0,1,0.0
+Serbia and Montenegro,1,0,1,0.0
+Tibet,1,0,1,0.0
+Burundi,1,0,1,0.0
+Benin,1,0,1,0.0
+United Kingdom,1,1,2,0.5
+United Arab Emirates,1,0,1,0.0
+Guinea,1,0,1,0.0
+Ivory Coast,1,0,1,0.0
+Chad,1,0,1,0.0
+Cambodia,1,0,1,0.0
+Dominican Republic,1,0,1,0.0
+Puerto Rico,1,0,1,0.0
+Turkmenistan,1,0,1,0.0
+Turks and Caicos Islands,1,0,1,0.0
+Somalia,1,0,1,0.0
+Togo,1,0,1,0.0
+No Country Entered,0,2,2,1.0
+Nationality ,0,0,0,
+Gambia,0,2,2,1.0
+Bhutan,0,1,1,1.0
