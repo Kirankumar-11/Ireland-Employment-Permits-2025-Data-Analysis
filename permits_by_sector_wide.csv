@@ -1,0 +1,27 @@
+sector,January,February,March,April,May,June,July,August,September,October,November,December,total_issued,sector_code,sector_label
+Q - Health & Social Work Activities,1040,781,801,415,372,650,649,651,622,622,665,680,7948,Q,Health & Social Work Activities
+J - Information & Communication Activities,451,343,361,224,215,191,232,318,268,374,383,270,3630,J,Information & Communication Activities
+I - Accommodation & Food Services Activities,557,389,463,168,223,127,177,240,242,291,334,288,3499,I,Accommodation & Food Services Activities
+S - Other Service Activities,259,195,210,124,139,89,150,156,161,235,217,152,2087,S,Other Service Activities
+F - Construction,259,157,235,88,101,66,137,202,211,236,185,154,2031,F,Construction
+"A - Agriculture, Forestry & Fishing",203,267,251,149,125,69,123,153,133,181,138,123,1915,A,"Agriculture, Forestry & Fishing"
+K - Financial & Insurance Activities,153,121,119,73,64,57,88,132,139,183,192,103,1424,K,Financial & Insurance Activities
+H - Transport & Storage,131,109,83,45,172,90,148,136,91,155,118,85,1363,H,Transport & Storage
+C - All Other Manufacturing,185,137,104,56,79,51,74,106,121,140,123,116,1292,C,All Other Manufacturing
+"M - Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",63,68,61,44,38,71,60,69,75,94,74,48,765,M,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services"
+"M - All other Professional, Scientific & Technical Activities",88,45,76,40,45,38,47,63,63,71,69,45,690,M,"All other Professional, Scientific & Technical Activities"
+G - Wholesale & Retail Trade,68,45,62,35,36,23,40,51,67,56,77,62,622,G,Wholesale & Retail Trade
+C - Manufacture of Chemicals & Pharmaceuticals,58,65,45,49,33,19,34,57,74,62,52,52,600,C,Manufacture of Chemicals & Pharmaceuticals
+"R - Arts, Entertainment and Recreation",40,49,74,36,30,37,52,83,73,69,25,25,593,R,"Arts, Entertainment and Recreation"
+"C - Manufacture of Food, Drink & Tobacco",37,32,61,34,42,23,19,71,70,52,29,26,496,C,"Manufacture of Food, Drink & Tobacco"
+P - Education,50,31,42,19,28,13,51,34,43,60,49,44,464,P,Education
+"C - Manufacture of Computers, Electronics & Optical Equipment",32,70,48,18,23,35,31,29,30,37,46,32,431,C,"Manufacture of Computers, Electronics & Optical Equipment"
+D - Electricity & Gas & Air Conditioning Supply,55,29,49,17,29,19,24,32,25,25,20,18,342,D,Electricity & Gas & Air Conditioning Supply
+C - Manufacture of Medical Devices,35,31,26,12,9,6,18,20,36,28,28,37,286,C,Manufacture of Medical Devices
+No Sector Entered ,0,0,0,0,0,0,0,20,24,51,39,52,186,,No Sector Entered 
+B - Mining & Quarrying,9,6,0,3,5,3,8,9,20,28,3,4,98,B,Mining & Quarrying
+N - Administrative & Support Service Activities,12,10,11,6,4,3,9,7,9,7,11,5,94,N,Administrative & Support Service Activities
+E - Water Supply - Sewerage Waste Management & Remedial Activities,2,2,3,7,3,1,5,13,16,20,3,11,86,E,Water Supply - Sewerage Waste Management & Remedial Activities
+O - Public Administration & Defence,9,3,5,4,3,1,1,5,7,7,4,5,54,O,Public Administration & Defence
+L - Real Estate Activities,2,9,1,2,1,2,3,3,5,6,4,2,40,L,Real Estate Activities
+T - Domestic - Activities of Households as Employers,0,0,0,0,1,0,0,1,2,2,1,1,8,T,Domestic - Activities of Households as Employers
